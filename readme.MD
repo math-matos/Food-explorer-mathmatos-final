@@ -50,7 +50,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:math-matos/Food-explorer-mathmatos-v2.git
+$ git clone git@github.com:math-matos/Food-explorer-mathmatos-final.git
 ```
 ___
 
