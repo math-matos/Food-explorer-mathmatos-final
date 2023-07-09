@@ -35,7 +35,7 @@ ___
 - [Knex](https://knexjs.org)
 - [Multer](https://www.npmjs.com/package/multer)
 - [Node.js](https://nodejs.org/en)
-- [nodemon] (https://www.npmjs.com/package/nodemon)
+- [nodemon](https://www.npmjs.com/package/nodemon)
 - [React Icons](https://react-icons.github.io/react-icons)
 - [React Router Dom](https://react-icons.github.io/react-icons)
 - [ReactJs](https://reactjs.org)
