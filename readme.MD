@@ -6,9 +6,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/math-matos/Food-explorer-mathmatos-final?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/math-matos/Food-explorer-mathmatos-final?style=for-the-badge)
 
-![foodexplorer vercel app_](https://cdn.discordapp.com/attachments/1123723265618219089/1123775317010567238/image_1.png)
+![foodexplorer](https://cdn.discordapp.com/attachments/994323553409314866/1131337955076747264/image.png)
 
-![foodexplorer vercel app_ (1)](https://cdn.discordapp.com/attachments/1123723265618219089/1123775326686818364/image2_1.png)
+![foodexplorer](https://cdn.discordapp.com/attachments/994323553409314866/1131338030872010803/image.png)
 
 ___
 
